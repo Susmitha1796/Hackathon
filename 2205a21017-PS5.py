@@ -17,7 +17,7 @@ def DELTA_STAR(R12, R23, R31):
         st.error("The sum of R12, R23, and R31 must not be zero.")
 
 # Title for the web application
-st.title("02341A0259-PS5: DELTA to STAR Conversion")
+st.title("2205a21017-PS5: DELTA to STAR Conversion")
 
 # Input Section
 st.header("Enter the resistances of the DELTA network")
